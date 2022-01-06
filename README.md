@@ -1,2 +1,2 @@
-# markdown
-In this repository,I'll start a project to talk about my learning for markdown.
+# 初学MarkDown
+刚开始接触MarkDown的时候，仅仅觉得是一个文本工具，可以记录笔记以及工作事件的备忘等等。后来随着慢慢的使用以及学习一些基础的语法，感觉这个文本工具记录起来很方便，而且格式调整用代码就可以实现，慢慢的常用的一些文本文档都改成了MarkDown,仅仅凭借有道云的MarkDown记录也改成了Typora（观察身边大佬使用的工具发现的，确实好用，此处选择1.0版本以下，不然需要破解或者收费）。现在已经开始感觉到它在代码管理上以及事件记录上的强大了，而且用它作为融入社区的敲门砖，慢慢的渗透进github，从一个小白努力茁壮成长为老白，fighting，之后大概会记录一些学习和使用MarkDown的心得吧。
